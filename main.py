@@ -4,10 +4,10 @@ import cleaner as cl
 import classify as cs
 import matplot as res
  
-consumer_key = '8AJLxl8YdVQwKsByCQFWvLuwj'
-consumer_secret = 'FaTgO1j2RhT6IQ0qsrOuw0gQRMUQYE6oN2XjpEoAE82urgQiw8'
-access_token = '386460129-sLTrNtYm5P1BY0ZaJX1py5f91Bwa3XTdpb7v7t9Z'
-access_secret = 'WkqG2SFO2K305FJu7Fui51m4jhhQ4pHoUoPx0XSzqnk86'
+consumer_key = ''
+consumer_secret = ''
+access_token = '386460129-'
+access_secret = ''
  
 
 auth = OAuthHandler(consumer_key, consumer_secret)
